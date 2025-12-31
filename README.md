@@ -65,3 +65,11 @@
 ## 📝 8. Conclusion
 - 병원 수치(혈당 등) 없이도 **주관적 건강 상태와 기초 지표(BMI, 혈압)**만으로 당뇨 위험도를 상당히 높은 확률로 예측할 수 있음을 확인했습니다.
 - 이 모델은 보건소 등에서 간단한 설문을 통해 정밀 검사가 필요한 대상자를 선별하는 데 활용될 수 있습니다.
+
+# 🔗 배지 및 이모지 공식 소스 링크
+| 용도 | 사이트 이름 | 링크 |
+| :--- | :--- | :--- |
+| **배지 생성** | Shields.io | [https://shields.io/](https://shields.io/) |
+| **로고/색상 검색** | Simple Icons | [https://simpleicons.org/](https://simpleicons.org/) |
+| **이모지 검색** | Emoji Cheat Sheet | [https://github.com/ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) |
+
